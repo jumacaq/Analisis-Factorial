@@ -26,4 +26,4 @@ Los objetivos del desarrollo de este proyecto son :
 
 *  Construir mapas de colores para ayudar a la interpretación de datos.
 
-*  Obtener mas habilidades con Python mediante sus librerías Pandas, Matplotlib, Seaborn y StatsModel.
+*  Obtener mas habilidades con Python mediante sus librerías Numpy, Pandas, Matplotlib, Seaborn y StatsModel.
